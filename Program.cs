@@ -17,7 +17,6 @@ namespace InvoiceDataExtractor
                 (e, level) => Console.WriteLine($"{e.EventSource.Name} [{level}]: {e.Message}"),
                 EventLevel.Informational);
 
-
             // 2. Load configuration
             var config = new ConfigurationBuilder()
                 .SetBasePath(AppContext.BaseDirectory)
