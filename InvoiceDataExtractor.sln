@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceDataExtractor", "InvoiceDataExtractor.csproj", "{3A139FC1-53B5-E63C-151A-E9CD29301AC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A139FC1-53B5-E63C-151A-E9CD29301AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A139FC1-53B5-E63C-151A-E9CD29301AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A139FC1-53B5-E63C-151A-E9CD29301AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A139FC1-53B5-E63C-151A-E9CD29301AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FB7353D-C778-4A37-A378-F2391756E93F}
+	EndGlobalSection
+EndGlobal
